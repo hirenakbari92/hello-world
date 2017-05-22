@@ -1,7 +1,6 @@
 # hello-world
 its just for learning hello-world
 
-remove this later -> this is edited for 1st branch 
-
+removed
 
 this is now uploaded
